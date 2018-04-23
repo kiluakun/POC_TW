@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TW_POC", "TW_POC\TW_POC.csproj", "{12E6811A-EFD4-419F-8D0C-E640896228E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TW_POC.Tests", "TW_POC.Tests\TW_POC.Tests.csproj", "{1B6C8DBB-DF95-4461-BF8F-8D1FCA990785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E6811A-EFD4-419F-8D0C-E640896228E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E6811A-EFD4-419F-8D0C-E640896228E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E6811A-EFD4-419F-8D0C-E640896228E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E6811A-EFD4-419F-8D0C-E640896228E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6C8DBB-DF95-4461-BF8F-8D1FCA990785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6C8DBB-DF95-4461-BF8F-8D1FCA990785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6C8DBB-DF95-4461-BF8F-8D1FCA990785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6C8DBB-DF95-4461-BF8F-8D1FCA990785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
